@@ -1,5 +1,5 @@
 # DataEDA
-Exploratory Data Analysis
+Exploratory Data Analysis : Sports(IPL)
 
 Objective -
 1) As a sports analysts, find out the most successful teams, players and factors
